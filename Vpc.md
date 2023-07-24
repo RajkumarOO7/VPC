@@ -15,3 +15,4 @@
 - Each public subnet contains a NAT Gateway and a LaodBalancer node.
 - The servers run in the private subnets, are launched and terminated by using AutoScaling Group, and receive traffic from LoadBalancer.
 - The servers can connect to the internet by using the NAT Gateway.
+Done
